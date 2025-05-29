@@ -5,7 +5,7 @@ This is the official Homebrew Tap for [MCPJungle](https://github.com/duaraghav8/
 In your terminal, run the following to install the MCPJungle CLI:
 
 ```bash
-brew install duaraghav8/tap/mcpjungle
+brew install duaraghav8/mcpjungle/mcpjungle
 ```
 
 Then check that everything is working:
